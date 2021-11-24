@@ -1,15 +1,20 @@
 {
-  "name": "basic_chat_filter",
+  "name": "@carlbeattie2000/basic_chat_filter",
   "version": "1.0.0",
   "description": "a basic chat filter, that blocks and filters the worst 723 bad words",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "chat_filter",
     "node"
   ],
   "author": "Carl Beattie",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlbeattie2000/basic_chat_filter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlbeattie2000/basic_chat_filter/issues"
+  },
+  "homepage": "https://github.com/carlbeattie2000/basic_chat_filter#readme"
 }
