@@ -1,1 +1,1 @@
-#Simple chat filter for node
+Simple Node Chat Filter
