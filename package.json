@@ -2,7 +2,7 @@
   "name": "@carlbeattie2000/basic_chat_filter",
   "version": "1.0.0",
   "description": "a basic chat filter, that blocks and filters the worst 723 bad words",
-  "main": "index.js",
+  "main": "chat_filter.js",
   "keywords": [
     "chat_filter",
     "node"
